@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #ffffff;
+  color: #2b3a4a;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+:focus-visible {
+  outline: 3px solid #e67e22;
+  outline-offset: 4px;
+}

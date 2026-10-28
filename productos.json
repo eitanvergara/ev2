@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Watchmen (Edición Especial)",
+    "categoria": "Mangas & Cómics",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7e3h3WeRod17l6l6LrQXKiOMWOIxv1y4P20ie9wCFsQ&s=10",
+    "precio": 28990
+  },
+  {
+    "id": 2,
+    "nombre": "Chainsaw Man Vol. 1",
+    "categoria": "Mangas & Cómics",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFp0Ooa3kRZMTVPZjy1MZHUkUFW_oEoen-fvalFqPxQ&s=10",
+    "precio": 8990
+  },
+  {
+    "id": 3,
+    "nombre": "Dune - Frank Herbert",
+    "categoria": "Fantástica & Sci-Fi",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qanUO9UtqCBwCfbTeNsJCTXp4w6GRFeaRA1qWsxfDw&s=10",
+    "precio": 19990
+  },
+  {
+    "id": 4,
+    "nombre": "El Nombre del Viento",
+    "categoria": "Fantástica & Sci-Fi",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Q7KZQQGO1l2F9rsOOGk4vg1FIYOnhCaROB08HPT66Q&s=10",
+    "precio": 22990
+  },
+  {
+    "id": 5,
+    "nombre": "Marcador Magnético Cyberpunk",
+    "categoria": "Marcadores & Merch",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNR0jG6-xmNvs_r8vpifsqFObbsG0x2rmEoqyB0vwmw&s=10",
+    "precio": 2990
+  },
+  {
+    "id": 6,
+    "nombre": "Frankenstein, de Mary Shelley",
+    "categoria": "Fantástica & Sci-Fi",
+    "imagen": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1632307185-51-4GVnxv7L._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*",
+    "precio": 18990
+  },
+  {
+    "id": 7,
+    "nombre": "El camino de los reyes",
+    "categoria": "Fantástica & Sci-Fi",
+    "imagen": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1632306770-518ggd0zZCL._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*",
+    "precio": 31990
+  },
+  {
+    "id": 8,
+    "nombre": "Dragon Ball Vol. 1",
+    "categoria": "Mangas & Cómics",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfOumZlqMB-gTk48QpaAFqzUxo-bbt7wbCRF22p9TFg&s=10",
+    "precio": 15990
+  }
+]

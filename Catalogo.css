@@ -1,0 +1,8 @@
+.catalogo-paginacion .page-link {
+  color: #2b3a4a;
+}
+.catalogo-paginacion .page-item.active .page-link {
+  background-color: #2b3a4a;
+  border-color: #2b3a4a;
+  color: #ffffff;
+}
